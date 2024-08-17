@@ -19,14 +19,14 @@ jobs:
       AGENTNAME: 'AJAY_AGENT'
       INCLUDECLOUDDEVICE: 'FALSE'
       INCLUDECLOUDBROWSER: 'FALSE'
-      DEVICENAME: ''
+      DEVICENAME: 'DESKTOP-USJIVK3'
       PROJECTKEY: 'YEC'
       BROWSER: 'chrome'
       REGION: 'UTC+05:30'
-      TESTRUNID: 'Test-Run-12561580'
+      TESTRUNID: 'Test-Run-12729129'
       ISCLOUDAGENT: 'FALSE'
       BROWSERVERSION: ''
-      OS: 'Windows 19045.4780'
+      OS: 'Windows 10 Pro'
       RUNONLYFAILED: 'FALSE'
 
     steps:
